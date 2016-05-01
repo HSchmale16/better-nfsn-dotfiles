@@ -10,6 +10,12 @@ defaults to be more inline with a standard Linux environment.
     * Tabs are spaces.
     * All are 4 spaces.
 
+# How to Install
+
+    ssh <your-nfsn-site>
+    cd ~
+    git clone https://github.com/HSchmale16/better-nfsn-dotfiles.git .
+
 # Licence
 You can do whatever you want with this code except claim authorship over it.
 
