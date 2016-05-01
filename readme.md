@@ -10,4 +10,8 @@ defaults to be more inline with a standard Linux environment.
     * Tabs are spaces.
     * All are 4 spaces.
 
+# Licence
+You can do whatever you want with this code except claim authorship over it.
+
+
 [1]: http://nearlyfreespeech.net

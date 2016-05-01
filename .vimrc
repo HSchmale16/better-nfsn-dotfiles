@@ -1,3 +1,4 @@
+set nocompatible
 " Set defaults for indentation
 set expandtab
 set tabstop=4
